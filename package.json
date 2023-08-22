@@ -1,0 +1,15 @@
+{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A simple command-line logo generator",
+    "main": "logoGenerator.js",
+    "scripts": {
+      "start": "node logoGenerator.js"
+    },
+    "keywords": ["logo", "generator", "cli"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "inquirer": "^8.2.0"
+    }
+  }
